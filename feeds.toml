@@ -1,6 +1,6 @@
 [membership]
 title = "V LIVE ─ STORE ─ MEMBERSHIP"
-url = "https://www.vlive.tv/vstore/membership"
+url = "https://www.vlive.tv/vstore/membership?lang=ko"
 entrySelector = "ul.channel_fanship_list._mem_list li"
 titleSelector = "strong.title"
 linkSelector = "a.store_fanship_card"
@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 
 [video]
 title = "V LIVE ─ STORE ─ V LIVE+"
-url = "https://www.vlive.tv/vstore/video"
+url = "https://www.vlive.tv/vstore/video?lang=ko"
 entrySelector = "ul.best_package_list li"
 titleSelector = "strong.info_tit"
 linkSelector = "a.store_fanship_card"
