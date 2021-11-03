@@ -4,7 +4,7 @@
         <title>V LIVE ─ STORE ─ V LIVE+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -728,15 +728,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20200909_92/1599627564014Xk5QG_JPEG/upload_06_EC8381ED9288EC8381EC84B8EC8381EB8BA8EC9DB4EBAF.jpg?type=f389_146" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kun-gu 2gether Live on Stage]]></title>
-            <link>https://www.vlive.tv/product/ds00u00u00000257</link>
-            <guid>https://www.vlive.tv/product/ds00u00u00000257</guid>
-            <pubDate>Sun, 31 Oct 2021 13:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[2020.09.15.-
-			2020.09.15.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20200908_26/1599530049230U2G6k_JPEG/upload_720x535.jpg?type=f389_146" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[K-Star Real Today_Zoom Live] 효민 ON/OFF 시크릿 데이트 1부+2부 package]]></title>
             <link>https://www.vlive.tv/product/ds00u00u00000253</link>
             <guid>https://www.vlive.tv/product/ds00u00u00000253</guid>
@@ -1158,15 +1149,6 @@
             <content:encoded><![CDATA[2020.05.22.-
 			2020.05.22.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20200520_150/1589956868661k02Lx_PNG/upload_11111.png?type=f389_146" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Krist & Singto - Global Live Fan Meeting]]></title>
-            <link>https://www.vlive.tv/product/ds00u00u00000171</link>
-            <guid>https://www.vlive.tv/product/ds00u00u00000171</guid>
-            <pubDate>Sun, 31 Oct 2021 13:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[2020.05.22.-
-			2020.05.22.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20200520_290/15899563732902UFg1_PNG/upload_VLIVE-and-Corner-Main-Image-720X410-1.png?type=f389_146" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[코드 입력 상품] SUPER JUNIOR - Beyond the Super Show (Beyond LIVE + VOD)]]></title>
