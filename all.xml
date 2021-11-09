@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 12:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 13:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1278,6 +1278,15 @@
             <content:encoded><![CDATA[2020.05.22.-
 			2020.05.22.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20200520_150/1589956868661k02Lx_PNG/upload_11111.png?type=f389_146" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Krist & Singto - Global Live Fan Meeting (V LIVE ─ STORE ─ V LIVE+)]]></title>
+            <link>https://www.vlive.tv/product/ds00u00u00000171</link>
+            <guid>https://www.vlive.tv/product/ds00u00u00000171</guid>
+            <pubDate>Tue, 09 Nov 2021 13:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[2020.05.22.-
+			2020.05.22.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20200520_290/15899563732902UFg1_PNG/upload_VLIVE-and-Corner-Main-Image-720X410-1.png?type=f389_146" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[코드 입력 상품] SUPER JUNIOR - Beyond the Super Show (Beyond LIVE + VOD) (V LIVE ─ STORE ─ V LIVE+)]]></title>
