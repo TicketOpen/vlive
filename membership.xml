@@ -4,9 +4,17 @@
         <title>V LIVE ─ STORE ─ MEMBERSHIP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 02:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 03:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SF9 Official Fanclub  5TH]]></title>
+            <link>https://www.vlive.tv/membership/166</link>
+            <guid>https://www.vlive.tv/membership/166</guid>
+            <pubDate>Fri, 12 Nov 2021 03:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[FANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_77/1636620822782G25R3_JPEG/upload_80700544150860308193e16a3-4b39-4edb-bbc7-58c87e2e476e.jpg?type=f389_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stray Kids Official Fanclub  2ND GEN]]></title>
             <link>https://www.vlive.tv/membership/165</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 11:47:49 GMT</pubDate>
             <content:encoded><![CDATA[MIDZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210120_207/1611113100098nGnlB_JPEG/upload_5519283545395047565d5daf5-c373-4ba8-8b67-3ce82b5565e0.jpg?type=f389_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤지성 (YOON JISUNG) Official Fanclub 밥알 (BABAL) 1기]]></title>
-            <link>https://www.vlive.tv/membership/138</link>
-            <guid>https://www.vlive.tv/membership/138</guid>
-            <pubDate>Sun, 31 Oct 2021 11:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[BABAL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210106_74/16098999535642Ev1R_JPEG/upload_26169560626967405d2f3456d-1ac3-4164-93dd-6bc61049682d.jpg?type=f389_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
