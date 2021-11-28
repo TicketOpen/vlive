@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 14:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 15:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,15 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 11:47:49 GMT</pubDate>
             <content:encoded><![CDATA[MIDZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210120_207/1611113100098nGnlB_JPEG/upload_5519283545395047565d5daf5-c373-4ba8-8b67-3ce82b5565e0.jpg?type=f389_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LA POEM 1st CONCERT SCENE#1 in SEOUL LIVE CLIP & BEHIND (V LIVE ─ STORE ─ V LIVE+)]]></title>
-            <link>https://www.vlive.tv/product/ds00u00u00000452</link>
-            <guid>https://www.vlive.tv/product/ds00u00u00000452</guid>
-            <pubDate>Fri, 26 Nov 2021 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26.-
-			2021.11.26.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_276/16377400047854juaz_JPEG/upload_54009611834358640afd2611c-5af8-444a-b3cf-5feaf4991408.jpg?type=f389_146" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3rd] 24시간 다시보기 2021 뮤지컬 <마리 앙투아네트> (V LIVE ─ STORE ─ V LIVE+)]]></title>
